@@ -45,6 +45,7 @@ permalink: /
     <div class="col-md-6 col-md-offset-6">
       <h2>PAST RESULTS</h2>
       <p>We have developed 5 players that have been selected for 3 different European U18 national field hockey teams.</p>
+      <p>We coached the USA West u18 and U19 teams at the junior national championships.</p>
       <p>We have coached a boys team which won a U14 boys national championship in Italy with a small club..</p>
       <p>We have coached a boys team which finished second twice in a U16 boys national championship in Italy with a small club.</p>
       <p>We have coached a girls team which qualified for the U14 and U16 girls national championship in Italy with a small club. The best finish was thrid place.</p>
@@ -143,31 +144,7 @@ permalink: /
 <!-- Content Start -->
 <section id="testimonial">
   <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>Fun Facts About Us</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        {% if site.data.funfacts.size > 0 %}
-        <div class="block">
-          {% for ff in site.data.funfacts %}
-          <ul class="counter-box clearfix">
-            <li>
-              <div class="block">
-                <i class="{{ ff.icon }}"></i>
-                <h4 class="counter">{{ ff.counter }}</h4>
-                <span>{{ ff.text }}</span>
-              </div>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-      </div>
-      <div class="col-md-6">
+    <div class="col-md-6">
         {% if site.data.testimonials.size > 0 %}
         <div class="testimonial-carousel">
           <div id="testimonial-slider" class="owl-carousel">
