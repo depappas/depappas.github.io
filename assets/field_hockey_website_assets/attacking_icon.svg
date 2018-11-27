@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1338 616 68 51" width="68" height="51">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1339 617 66 49" width="66" height="49">
   <defs/>
   <metadata> Produced by OmniGraffle 7.9.2 
-    <dc:date>2018-11-27 00:02:41 +0000</dc:date>
+    <dc:date>2018-11-27 07:50:22 +0000</dc:date>
   </metadata>
   <g id="attacking_icon" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1">
     <title>attacking_icon</title>
-    <rect fill="white" x="1338" y="616" width="68" height="51"/>
+    <rect fill="white" x="1339" y="617" width="66" height="49"/>
     <g id="attacking_icon: Layer 1">
       <title>Layer 1</title>
       <g id="Graphic_2">
         <path d="M 1385.4023 665.5 L 1358.5977 665.5 L 1358.5977 639.5234 L 1339.5 639.5234 L 1372 617 L 1404.5 639.5234 L 1385.4023 639.5234 Z" fill="black"/>
-        <path d="M 1385.4023 665.5 L 1358.5977 665.5 L 1358.5977 639.5234 L 1339.5 639.5234 L 1372 617 L 1404.5 639.5234 L 1385.4023 639.5234 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
       </g>
     </g>
   </g>

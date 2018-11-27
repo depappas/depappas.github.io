@@ -11,13 +11,13 @@
     <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(613.8 285.45) scale(11.1)"/>
     <linearGradient x1="0" x2="1" id="Gradient_2" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="white"/>
-      <stop offset="1" stop-color="#333"/>
+      <stop offset="1" stop-color="#ff2600"/>
     </linearGradient>
     <linearGradient id="Obj_Gradient_3" xl:href="#Gradient_2" gradientTransform="translate(608.65 285.45) rotate(180) scale(25.9)"/>
     <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(604 285.45) scale(15.5)"/>
   </defs>
   <metadata> Produced by OmniGraffle 7.9.2 
-    <dc:date>2018-11-27 00:02:41 +0000</dc:date>
+    <dc:date>2018-11-27 07:50:22 +0000</dc:date>
   </metadata>
   <g id="drag_flick_icon" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1">
     <title>drag_flick_icon</title>
