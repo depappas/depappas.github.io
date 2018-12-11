@@ -12,7 +12,11 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-
+variables:
+  LC_ALL: "C.UTF-8"
+  LANG: "en_US.UTF-8"
+  LANGUAGE: "en_US.UTF-8"
+    
 # Site settings
 title: Next Level
 subtitle: "Field hockey consulting"
@@ -21,6 +25,7 @@ url: "http://depappas.github.io" # the base hostname & protocol for your site
 baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+encoding: utf-8
 
 # Build settings
 markdown: kramdown

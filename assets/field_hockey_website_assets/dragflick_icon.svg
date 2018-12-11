@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="593 257 65 44" width="65" height="44">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset=".7" stop-color="#ff9595"/>
+      <stop offset="1" stop-color="white"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(650.8575 278.775) scale(6.200828)"/>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(637.879 278.775) scale(16.00679)"/>
+    <linearGradient x1="0" x2="1" id="Gradient_2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="white"/>
+      <stop offset="1" stop-color="#ff2600"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient_2" gradientTransform="translate(630.4524 278.775) rotate(180) scale(37.349176)"/>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(623.7469 278.775) scale(22.351823)"/>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.9.3 
+    <dc:date>2018-12-11 08:18:33 +0000</dc:date>
+  </metadata>
+  <g id="dragflick_icon" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
+    <title>dragflick_icon</title>
+    <g id="dragflick_icon: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_26">
+        <g id="Graphic_25">
+          <circle cx="653.9579" cy="278.775" r="3.10041901347973" fill="url(#Obj_Gradient)"/>
+        </g>
+        <g id="Graphic_9">
+          <circle cx="645.8824" cy="278.775" r="8.00340748419966" fill="url(#Obj_Gradient_2)"/>
+        </g>
+        <g id="Graphic_24">
+          <path d="M 593.10324 257 L 593.10324 300.55 L 630.4524 291.84 L 630.4524 265.71 Z" fill="url(#Obj_Gradient_3)"/>
+        </g>
+        <g id="Graphic_8">
+          <circle cx="634.9228" cy="278.775" r="11.175929435842" fill="url(#Obj_Gradient_4)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="1460 749 17 52" width="17" height="52">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.3 
+    <dc:date>2018-12-11 08:18:33 +0000</dc:date>
+  </metadata>
+  <g id="defensive_patterns_icon" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
+    <title>defensive_patterns_icon</title>
+    <g id="defensive_patterns_icon: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_85">
+        <path d="M 1462.5 751.5 L 1474.3425 757.375 L 1462.5 763.25 Z" fill="red"/>
+        <path d="M 1462.5 751.5 L 1474.3425 757.375 L 1462.5 763.25 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_87">
+        <path d="M 1462.5 763.25 L 1474.3425 769.125 L 1462.5 775 Z" fill="red"/>
+        <path d="M 1462.5 763.25 L 1474.3425 769.125 L 1462.5 775 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_89">
+        <path d="M 1462.5 775 L 1474.3425 780.875 L 1462.5 786.75 Z" fill="red"/>
+        <path d="M 1462.5 775 L 1474.3425 780.875 L 1462.5 786.75 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_88">
+        <path d="M 1462.5 786.75 L 1474.3425 792.625 L 1462.5 798.5 Z" fill="red"/>
+        <path d="M 1462.5 786.75 L 1474.3425 792.625 L 1462.5 798.5 Z" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

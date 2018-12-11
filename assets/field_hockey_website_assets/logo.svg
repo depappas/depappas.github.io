@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="550 260 73 73" width="73" height="73">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="550 260 73 73" width="73" height="73">
   <defs>
     <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="white"/>
@@ -8,12 +8,11 @@
     </linearGradient>
     <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(585.852 259.3742) rotate(89) scale(74.26291)"/>
   </defs>
-  <metadata> Produced by OmniGraffle 7.9.2 
-    <dc:date>2018-11-27 07:50:22 +0000</dc:date>
+  <metadata> Produced by OmniGraffle 7.9.3 
+    <dc:date>2018-12-11 08:18:33 +0000</dc:date>
   </metadata>
-  <g id="logo" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1">
+  <g id="logo" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
     <title>logo</title>
-    <rect fill="white" x="550" y="260" width="73" height="73"/>
     <g id="logo: Layer 1">
       <title>Layer 1</title>
       <g id="Graphic_5">
