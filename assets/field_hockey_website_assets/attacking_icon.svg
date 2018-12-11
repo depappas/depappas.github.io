@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 1 65 49" width="65" height="49">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 1 90 68" width="90" height="68">
   <defs/>
   <metadata> Produced by OmniGraffle 7.9.3 
-    <dc:date>2018-12-11 08:18:33 +0000</dc:date>
+    <dc:date>2018-12-11 08:29:13 +0000</dc:date>
   </metadata>
   <g id="attacking_icon" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
     <title>attacking_icon</title>
     <g id="attacking_icon: Layer 1">
       <title>Layer 1</title>
       <g id="Graphic_2">
-        <path d="M 45.902344 50 L 19.097656 50 L 19.097656 24.023438 L 0 24.023438 L 32.5 1.5 L 65 24.023437 L 45.902344 24.023437 Z" fill="black"/>
+        <path d="M 65.036855 68.05234 L 24.157008 68.05234 L 24.157008 32.4024 L 0 32.4024 L 44.59693 1.5 L 89.19386 32.4024 L 65.036855 32.4024 Z" fill="black"/>
       </g>
     </g>
   </g>

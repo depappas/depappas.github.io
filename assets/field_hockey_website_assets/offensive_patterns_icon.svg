@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="1623 951 23 72" width="23" height="72">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="1623 949 23 70" width="23" height="70">
   <defs/>
   <metadata> Produced by OmniGraffle 7.9.3 
-    <dc:date>2018-12-11 08:18:33 +0000</dc:date>
+    <dc:date>2018-12-11 08:29:13 +0000</dc:date>
   </metadata>
   <g id="offensive_patterns_icon" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" fill="none">
     <title>offensive_patterns_icon</title>
@@ -11,20 +11,20 @@
       <title>Layer 1</title>
       <g id="Group_6">
         <g id="Graphic_5">
-          <path d="M 1643.1339 1021 L 1626 1012.5 L 1643.1339 1004 Z" fill="lime"/>
-          <path d="M 1643.1339 1021 L 1626 1012.5 L 1643.1339 1004 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path d="M 1643.1339 1014.8 L 1627.5622 1007.075 L 1643.1339 999.35 Z" fill="lime"/>
+          <path d="M 1643.1339 1014.8 L 1627.5622 1007.075 L 1643.1339 999.35 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="4"/>
         </g>
         <g id="Graphic_4">
-          <path d="M 1643.1339 1004 L 1626 995.5 L 1643.1339 987 Z" fill="lime"/>
-          <path d="M 1643.1339 1004 L 1626 995.5 L 1643.1339 987 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path d="M 1643.1339 999.35 L 1627.5622 991.625 L 1643.1339 983.9 Z" fill="lime"/>
+          <path d="M 1643.1339 999.35 L 1627.5622 991.625 L 1643.1339 983.9 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="4"/>
         </g>
         <g id="Graphic_3">
-          <path d="M 1643.1339 987 L 1626 978.5 L 1643.1339 970 Z" fill="lime"/>
-          <path d="M 1643.1339 987 L 1626 978.5 L 1643.1339 970 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path d="M 1643.1339 983.9 L 1627.5622 976.175 L 1643.1339 968.45 Z" fill="lime"/>
+          <path d="M 1643.1339 983.9 L 1627.5622 976.175 L 1643.1339 968.45 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="4"/>
         </g>
         <g id="Graphic_2">
-          <path d="M 1643.1339 970 L 1626 961.5 L 1643.1339 953 Z" fill="lime"/>
-          <path d="M 1643.1339 970 L 1626 961.5 L 1643.1339 953 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          <path d="M 1643.1339 968.45 L 1627.5622 960.725 L 1643.1339 953 Z" fill="lime"/>
+          <path d="M 1643.1339 968.45 L 1627.5622 960.725 L 1643.1339 953 Z" stroke="#00fa00" stroke-linecap="round" stroke-linejoin="miter" stroke-width="4"/>
         </g>
       </g>
     </g>
