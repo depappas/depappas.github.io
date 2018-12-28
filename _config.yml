@@ -16,7 +16,7 @@ variables:
   LC_ALL: "C.UTF-8"
   LANG: "en_US.UTF-8"
   LANGUAGE: "en_US.UTF-8"
-    
+
 # Site settings
 title: Next Level
 subtitle: "Field hockey consulting"
